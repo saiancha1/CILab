@@ -6,4 +6,4 @@ then
 echo " Compile failed !"
 exit 1
 fi
-java -ea Calc # run test
+java -ea Calc # run test 
